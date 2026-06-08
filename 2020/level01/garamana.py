@@ -2,7 +2,7 @@
 Garamana
 """
 # https://olimpiada.ic.unicamp.br/pratique/ps/2020/f1/garamana/
-# # Points 100/100
+# Points 100/100
 # t = 0,026s / 0,1s
 # memory 4.0 MB/ 64 MB
 
